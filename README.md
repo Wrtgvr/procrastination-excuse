@@ -35,7 +35,7 @@ cd procrastination-excuse
 ```bash
 # build
 go build .
-# or run without buildiny an .exe
+# or run without building an .exe
 go run .
 ```
 4. Keep procrastinating
